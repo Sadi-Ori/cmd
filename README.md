@@ -3,11 +3,11 @@
 ![LogoBanner](./shots/LogoBanner.png)
 ---
 
-  [![GitHub issues](https://img.shields.io/github/issues/talex-touch/tuff?style=flat-square)](https://github.com/talex-touch/tuff/issues)
-  [![GitHub license](https://img.shields.io/github/license/talex-touch/tuff?style=flat-square)](https://github.com/talex-touch/tuff/blob/main/LICENSE)
-  [![GitHub release](https://img.shields.io/badge/release-2.4.5-42B883?style=flat-square)](https://github.com/talex-touch/tuff/releases)
+  [![GitHub issues](https://img.shields.io/github/issues/talex-touch/tuff?style=flat-square)](https://github.com/Sadi-Ori/tuff/issues)
+  [![GitHub license](https://img.shields.io/github/license/talex-touch/tuff?style=flat-square)](https://github.com/Sadi-Ori/tuff/blob/main/LICENSE)
+  [![GitHub release](https://img.shields.io/badge/release-2.4.5-42B883?style=flat-square)](https://github.com/Sadi-Ori/tuff/releases)
   <br>
-  English | [简体中文](./README.zh-CN.md)
+  English 
 </div>
 
 ## 📌 What is tuff?
@@ -44,7 +44,7 @@ Tuff (formerly TalexTouch) is a local-first, AI-native, and infinitely extensibl
 
 ## 🚀 Background
 
-**We believe your most powerful tool should be as adaptable as you are. Tuff is a new kind of command center—a foundational, open-source layer for your OS, crafted to anticipate your intent and seamlessly integrate with your unique workflow. Hackable to its core and open by design, it’s ready to be shaped by you.**
+**I believe your most powerful tool should be as adaptable as you are. Tuff is a new kind of command center—a foundational, open-source layer for your OS, crafted to anticipate your intent and seamlessly integrate with your unique workflow. Hackable to its core and open by design, it’s ready to be shaped by you.**
 
 ## 🦋 Beautiful UI Design
 
@@ -97,51 +97,7 @@ This project is open-sourced under the **MIT License**.
 
 Please keep in mind that developers are under no obligation to solve your Issue even in this project, as well as open source and maintenance are based on the free time of developers.
 
-## ❤️ Contribution
-
-#### [Click here to learn more](./.github/docs/contribution/CONTRIBUTING.md)
-
-### Who works with us
-
-<!-- readme: collaborators,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/TalexDreamSoul">
-            <img src="https://avatars.githubusercontent.com/u/59305952?v=4" width="100;" alt="TalexDreamSoul"/>
-            <br />
-            <sub><b>TalexDreamSoul</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lorsque-sir">
-            <img src="https://avatars.githubusercontent.com/u/59496171?v=4" width="100;" alt="lorsque-sir"/>
-            <br />
-            <sub><b>Lorsque</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/fossabot">
-            <img src="https://avatars.githubusercontent.com/u/29791463?v=4" width="100;" alt="fossabot"/>
-            <br />
-            <sub><b>Fossabot</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators,contributors -end -->
-
-## Star History
-
-<a href="https://www.star-history.com/#talex-touch/tuff&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=talex-touch/tuff&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=talex-touch/tuff&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=talex-touch/tuff&type=Date" />
- </picture>
-</a>
-
 ## ✉️ Contact
 
-Through email (TalexDreamSoul@Gmail) or open an issue.
+01521396041
 
-Copyright © 2022-PRESENT TalexDreamSoul
