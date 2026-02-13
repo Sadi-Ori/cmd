@@ -22,9 +22,6 @@ Tuff (formerly TalexTouch) is a local-first, AI-native, and infinitely extensibl
 
 > Due to developer schedule reasons, it will no longer be actively compatible with Linux, and the Windows version testing will be delayed by two months compared to macos. (Sorry!!!)
 
-### Search all apps on device.
-
-![SearchApplication](./shots/SearchApp.gif)
 
 ### Search files immediately.
 
