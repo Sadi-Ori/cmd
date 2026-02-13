@@ -30,14 +30,6 @@ Tuff (formerly TalexTouch) is a local-first, AI-native, and infinitely extensibl
 
 ![SearchFilesImmediately](./shots/SearchFileImmediately.gif)
 
-### Plugin translate.
-
-![TranslatePlugin](./shots/PluginTranslate.gif)
-
-### Manage plugins on your own.
-
-![ManagePlugins](./shots/ManagePlugin.gif)
-
 ### Settings page
 
 ![Settings](./shots/SettingsSo.png)
