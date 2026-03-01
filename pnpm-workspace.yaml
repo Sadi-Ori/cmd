@@ -56,7 +56,7 @@ catalogs:
     '@antfu/eslint-config': ^4.17.0
     '@cloudflare/workers-types': ^4.20241218.0
     baseline-browser-mapping: ^2.9.15
-    eslint: ^9.31.0
+    eslint: ^9.8.0
     eslint-plugin-format: ^1.0.1
     nitro-cloudflare-dev: ^0.2.2
     typescript: ^5.8.3

@@ -29,7 +29,7 @@
     "@vitejs/plugin-vue": "^6.0.3",
     "@vue-macros/volar": "^0.30.15",
     "@vue/test-utils": "^2.4.6",
-    "eslint": "^9.39.2",
+    "eslint": "^9.8.0",
     "eslint-plugin-format": "^1.1.0",
     "jsdom": "^26.1.0",
     "lint-staged": "^16.2.7",

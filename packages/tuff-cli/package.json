@@ -34,7 +34,7 @@
     "@talex-touch/unplugin-export-plugin": "workspace:*"
   },
   "devDependencies": {
-    "eslint": "^9.31.0",
+    "eslint": "^9.8.0",
     "rimraf": "^5.0.10",
     "tsup": "^8.1.2",
     "typescript": "^5.8.3"
